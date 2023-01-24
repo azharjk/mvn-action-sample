@@ -1,7 +1,6 @@
 package org.example;
 
-public class App
-{
+public class App {
   protected App() { }
   public static void main(String[] args) {
     Person person = new Person("Nick");
